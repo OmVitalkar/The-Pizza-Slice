@@ -8,5 +8,6 @@ CSS was used in styling the document.
 Javascript was used in making the webpage responsive.
 Atom was the source code editor of choice.
 Git and Github were used as my local and online repositories respectively.
+
 Support and contact details
 Email : omvitu1204@gmail.com
